@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FetchClients from './FetchClients';
 import CustomersList from './CustomersList';
-import '../Sass/App.scss';
+import '../Sass/import.scss';
 
 const API = 'https://randomuser.me/api/?results=1'
 

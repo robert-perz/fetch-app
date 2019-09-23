@@ -22,12 +22,6 @@ Fetch data in React from external source -[@randomuser.me](https://randomuser.me
 * BEM
 * RWD
 
-## Setup
-
-Lack of node modules.To download via npm
-When in workfolder enter in terminal command: npm start
-Then open [@3000](http://localhost:3000/) to see this app.
-
 ## Features
 
 List of features ready and for future development
